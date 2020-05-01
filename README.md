@@ -2,7 +2,11 @@
 File containing the components and widgets used to make up the SES blog - Penstrokes
 
 ## Installing and Using
-First install and extract the zip file. <br>
+First download and extract the zip file. <br>
+
+### If you don't have a hosting:
+You can follow the steps as described in the video to get free hosting https://www.youtube.com/watch?v=XV1cOGaZUq0
+
 ### If you have already have a hosting where you can try out your code:
 1. Login into your website's dashboard/Cpanel and download Wordpress  <br>
 2. Once wordpress has been installed, set up your account and when you're done, you will be redirected to your wordpress dashboard which you can always access by ```[url_of_your_website]/wp-admin``` <br>
