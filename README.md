@@ -6,4 +6,15 @@ First install and extract the zip file. <br>
 If you have already have a hosting: <br>
 1. Login into your website's dashboard/Cpanel and download Wordpress  <br>
 2. Once wordpress has been installed, set up your account and when you're done, you will be redirected to your wordpress dashboard which you can always access by ```[url_of_your_website]/wp-admin``` <br>
-3. ![Dashboard](/images/dashboard.png)
+![Dashboard](/images/dashboard.png) <br>
+3. From the Dashboard, click on Plugins >> Add New <br>
+4. In the page that appears, search for All-In-One WP-Migration plugin and Install it and click on Activate
+![Plugins](/images/allinone.png)  <br>
+5. After it is activated, it will appear as one of the items on that sidebar. ```All-in-One WP Migration ``` <br>
+6. Hover over it and click ```Import``` <br>
+![Import](/images/import.png) <br>
+7. On that page that appears, click on the Import button and select ```File``` from the dropdown that appears <br>
+8. Select the file that you downloaded at the beginning and wait for it to import it <br>
+```Incase there is a warning for the file exceeding the upload limit, just request for an extension of file upload size from that plugin and you should get an increase to 512MB```
+
+
