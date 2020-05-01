@@ -9,10 +9,10 @@ If you have already have a hosting: <br>
 ![Dashboard](/images/dashboard.png) <br>
 3. From the Dashboard, click on Plugins >> Add New <br>
 4. In the page that appears, search for All-In-One WP-Migration plugin and Install it and click on Activate
-![Plugins](/images/allinone.png)  <br>
+![Plugins](/images/allinone.PNG)  <br>
 5. After it is activated, it will appear as one of the items on that sidebar. ```All-in-One WP Migration ``` <br>
 6. Hover over it and click ```Import``` <br>
-![Import](/images/import.png) <br>
+![Import](/images/import.PNG) <br>
 7. On that page that appears, click on the Import button and select ```File``` from the dropdown that appears <br>
 8. Select the file that you downloaded at the beginning and wait for it to import it <br>
 ```Incase there is a warning for the file exceeding the upload limit, just request for an extension of file upload size from that plugin and you should get an increase to 512MB```
